@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Portifolio</title>
+    <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+ </head>
+ <body>
+   <img src="foto de perfil.jpeg" width="150">
+   <h1>João Leonardo</h1>
+   <h2>Desenvolvedor de Software Junior</h2>
+   <p>Bem-vindo à minha página! Eu sou João Leonardo, um desenvolvedor de software junior. Acompanhe minha jornada nas minhas redes sociais. Feliz codificação!</p>
+   <a href="https://www.instagram.com/santsxm_"><i class="fab fa-instagram"></i>Instagram</a>
+   <a href="https://br.linkedin.com/in/jo%C3%A3o-leonardo-ba1770349"><i class="fab fa-linkedin"></i>Linkedin</a>
+ </body>
+</html>
